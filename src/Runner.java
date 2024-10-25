@@ -9,5 +9,6 @@ public class Runner {
         if (a< 2){
             System.out.println(b);
         }
+        a+=1;
     }
 }
