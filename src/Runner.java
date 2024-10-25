@@ -6,5 +6,8 @@ public class Runner {
         System.out.println(a);
         String b = "happy";
         System.out.println("I am "+ b);
+        if (a< 2){
+            System.out.println(b);
+        }
     }
 }
