@@ -5,7 +5,7 @@ public class Runner {
         int a = 5;
         System.out.println(a);
         String b = "happy";
-        System.out.println("I am "+ b);
+        System.out.println("I'm "+ b);
         if (a< 2){
             System.out.println(b);
         }
