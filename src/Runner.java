@@ -1,6 +1,6 @@
 public class Runner {
     public static void main(String[] args) {
-        System.out.println("test");
+        System.out.println("bye");
         System.out.println("welcome to my first git program");
         int a = 5;
         System.out.println(a);
